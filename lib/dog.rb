@@ -17,4 +17,4 @@ Dog.clear_all
 
 Dog.print_all
 
-Dog.save
+Dog.save_all
