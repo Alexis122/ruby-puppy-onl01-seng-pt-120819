@@ -12,3 +12,9 @@ class Dog
   end
  
 end
+
+Dog.clear_all
+
+Dog.print_all
+
+Dog.save
